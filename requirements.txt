@@ -3,3 +3,6 @@ langchain
 streamlit
 python-dotenv
 PyPDF2
+
+
+-e .  #for installing all the packages 
